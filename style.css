@@ -1,0 +1,73 @@
+.intro{
+  font-family: "Sevillana", cursive;
+  font-style: normal;
+  padding-top: 0px;
+  
+}
+
+h2{
+  font-family: "Sevillana", cursive;
+  font-style: normal;
+  padding-top: 0px;
+}
+
+#bg{
+  background-color:#2F4F4F;
+  margin-left:25%;
+  margin-right:25%;
+  margin-top:10px;
+  
+}
+
+.my-img{
+ 
+  border-radius: 50%;
+}
+
+p{
+  font-family: "Lora", serif;
+  font-size:large;
+  font-weight:400;
+  font-style: normal;
+  
+  
+}
+
+#about-me{
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight:650;
+  font-style:normal;
+  color: #2F4F4F;
+  
+}
+
+.skills{
+  margin-left: 250px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight:650;
+  font-style:normal;
+  color: #2F4F4F;
+}
+
+#bgskills{
+  background-color:antiquewhite;
+  border-radius: 3%;
+  margin-left: 10px;
+  margin-right:10px;
+}
+
+.contact{
+  text-align: center;
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight:650;
+  font-style:normal;
+  color: #2F4F4F;
+}
+
